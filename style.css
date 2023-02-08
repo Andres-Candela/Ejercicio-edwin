@@ -1,0 +1,69 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background-color: rgb(6, 8, 119);
+}
+
+
+
+h1{
+
+    text-align: center;
+    margin-top: 7rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4rem;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    color: transparent;
+}
+
+
+
+hr{
+
+    margin: 5rem;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+
+main{
+    
+    margin-left: 36rem;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-right-style: groove;
+    border-left-style: groove;
+    border-bottom-style: groove;
+    border-top-style: groove;
+    border-radius: 20px;
+}
+
+
+
+input{
+    padding-right: 15px;
+    text-align: center;
+    margin-top: 4rem;
+    border-radius: 50%;
+    width: 70px;
+    height: 50px;
+    margin: 20px;
+}
+
+
+
+p{
+    padding: 1rem;
+    color: white;
+} 
+
+
+
+#calculate{
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
